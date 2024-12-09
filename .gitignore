@@ -1,0 +1,9 @@
+/**/.vs
+/**/bin
+/**/obj
+/CoreWebApi/dcorewebapibab7a2416bf4965cc2a04
+/**/.terraform
+/CoreWebApi/terraform/.terraform.lock.hcl
+/CoreWebApi/terraform/plan.out
+/CoreWebApi/terraform/terraform.tfstate
+/CoreWebApi/terraform/terraform.tfstate.backup

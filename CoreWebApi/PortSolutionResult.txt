@@ -1,0 +1,85 @@
+==========
+References
+==========
+CoreWebApi.Controllers
+Microsoft.AspNetCore.Mvc
+CoreWebApi
+Amazon.Lambda.AspNetCoreServer
+Microsoft.AspNetCore.Hosting
+Microsoft.Extensions.Hosting
+System
+HtmlAgilityPack
+System.Globalization
+Microsoft.Extensions.Configuration
+Microsoft.Extensions.DependencyInjection
+Microsoft.AspNetCore.Builder
+Microsoft.AspNetCore.Http
+System.Reflection
+global::Microsoft.AspNetCore.Builder
+global::Microsoft.AspNetCore.Hosting
+global::Microsoft.AspNetCore.Http
+global::Microsoft.AspNetCore.Routing
+global::Microsoft.Extensions.Configuration
+global::Microsoft.Extensions.DependencyInjection
+global::Microsoft.Extensions.Hosting
+global::Microsoft.Extensions.Logging
+global::System
+global::System.Collections.Generic
+global::System.IO
+global::System.Linq
+global::System.Net.Http
+global::System.Net.Http.Json
+global::System.Threading
+global::System.Threading.Tasks
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: C:\Users\Hia\Documents\GitHub\meusrepos\aws-local-with-localstack\02-Lambda_and_EC2_Serveless\CoreWebApi\src\CoreWebApi\CoreWebApi.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: C:\Users\Hia\Documents\GitHub\meusrepos\aws-local-with-localstack\02-Lambda_and_EC2_Serveless\CoreWebApi\src\CoreWebApi\CoreWebApi.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
