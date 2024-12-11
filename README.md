@@ -12,3 +12,4 @@ Endpoints on AWS:
     -   Using the simple example provided by the template
 -   [https://sycmft88j9.execute-api.sa-east-1.amazonaws.com/Prod/teste](https://sycmft88j9.execute-api.sa-east-1.amazonaws.com/Prod/teste)
     -   Using a Repository pattern
+    -   Added a simple Post example, with model state validation
